@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Final_th1
+namespace bankapp
 {
 
     class Overdraft : Account
